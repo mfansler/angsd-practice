@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "Git Practice File"
+author: "Alexander Ham"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document:
