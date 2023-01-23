@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "Git and R Practice"
+author: "Ayush Kris"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document:
@@ -32,9 +32,10 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
----
+------------------------------------------------------------------------
 
 # Session Info
+
 ```{r session_info, echo=FALSE}
 sessionInfo()
 ```
