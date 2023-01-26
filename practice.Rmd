@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "Practice with Git and Rmarkdown"
+author: "Noelle Wheeler"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document:
