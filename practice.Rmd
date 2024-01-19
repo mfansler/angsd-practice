@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "angsd-hw2"
+author: "Shaun Pollard"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
