@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "Yes, my name is quite lengthy."
+author: "Mir-Mammad Javad-zada (Miri)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
