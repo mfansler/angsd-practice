@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "GitHub Practice - ANGSD 2024"
+author: "Constien"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
