@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "Exercise: Git, GitHub, and RStudio"
+author: "Wenyi Shao"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
